@@ -20,6 +20,4 @@ To work on this project, follow these steps:
 
 Feel free to modify the code to suit your needs!
 
----
 
-This version should be clearer and more grammatically correct while retaining all the important details.
